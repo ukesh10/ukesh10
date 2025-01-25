@@ -18,7 +18,11 @@ Full Stack Developer with 2+ years of experience in building robust, scalable we
   <p>
   🌱 I’m currently learning about Next.js and Sitecore XM cloud.
 
+  👨‍💻 All of my projects are available at [my website](ukeshfolio.netlify.app/#projects)
+
   👀 Ask me about Web App Development 
+
+  📫 Check out my [Blogs](ukeshfolio.netlify.app/#blogs)
 
   ⚡ Like Gaming & Football
     
@@ -64,7 +68,8 @@ Connect With Me
     <a href="https://www.linkedin.com/in/ukeshsharma/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Ayan_M_Dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://leetcode.com/u/ukesh10/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-     <a href="https://ukeshfolio.netlify.app/"><img src="https://img.shields.io/badge/personal%20site?style=for-the-badge&logo=discord&logoColor=white"/></a>
+     <a href="https://ukeshfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal%20Site-1DA1F2?style=for-the-badge&logo=personal&logoColor=white"/></a>
+     https://img.shields.io/badge/any%20text-you%20like-blue
     
   </p>
 </div>  
