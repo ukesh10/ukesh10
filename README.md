@@ -6,7 +6,7 @@
 </div>
 
 
-<div id="hey" align="center">
+<div id="hey" align="justify">
 <p>
 Full Stack Developer with 2+ years of experience in building robust, scalable web applications. Skilled in .NET technologies, Sitecore CMS, and modern front-end technologies like React and Next.js, I specialize in designing seamless APIs, crafting dynamic user interfaces, and delivering end-to-end solutions.
 With expertise in backend systems, frontend frameworks, and CMS-based applications, I’m passionate about writing clean, maintainable code that ensures functionality and user satisfaction. Whether working on complex integrations or creating responsive designs, I thrive on solving challenges and driving value.
