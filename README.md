@@ -21,11 +21,11 @@ Always eager to exciting projects and collaborations to create impactful digital
   <p>
   🌱 I’m currently learning about Next.js and Sitecore XM cloud.
 
-  👨‍💻 All of my projects are available at [my website](htpps://ukeshfolio.netlify.app/#projects)
+  👨‍💻 All of my projects are available at [my website](https://ukeshfolio.netlify.app/#projects)
 
   👀 Ask me about Web App Development 
 
-  📫 Check out my [Blogs](htpps://ukeshfolio.netlify.app/#blogs)
+  📫 Check out my [Blogs](https://ukeshfolio.netlify.app/#blogs)
 
   ⚡ Like Gaming & Football
     
