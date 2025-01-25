@@ -9,7 +9,13 @@
 
 Hi there 👋.
 <br />
-I’m Ukesh Sharma, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+I’m Ukesh Sharma.
+<br />
+"Full Stack Developer with 2+ years of experience in building robust, scalable web applications. Skilled in .NET technologies, Sitecore CMS, and modern front-end technologies like React and Next.js, I specialize in designing seamless APIs, crafting dynamic user interfaces, and delivering end-to-end solutions.
+
+With expertise in backend systems, frontend frameworks, and CMS-based applications, I’m passionate about writing clean, maintainable code that ensures functionality and user satisfaction. Whether working on complex integrations or creating responsive designs, I thrive on solving challenges and driving value.
+
+Always eager to exciting projects and collaborations to create impactful digital experiences!"
 
 ## Get in touch :coffee:
 
