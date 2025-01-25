@@ -8,7 +8,10 @@
 
 <div id="hey" align="center">
 <p>
-Full Stack Developer with 2+ years of experience in building robust, scalable web applications. Skilled in .NET technologies, Sitecore CMS, and modern front-end technologies like React and Next.js, I specialize in designing seamless APIs, crafting dynamic user interfaces, and delivering end-to-end solutions.
+Full Stack Developer with 2+ years of experience in building robust, scalable web applications. Skilled in .NET technologies, Sitecore CMS, and modern front-end technologies like React and Next.js, I specialize in designing seamless APIs, crafting dynamic user interfaces, and delivering end-to-end solutions. <br/>
+With expertise in backend systems, frontend frameworks, and CMS-based applications, I’m passionate about writing clean, maintainable code that ensures functionality and user satisfaction. Whether working on complex integrations or creating responsive designs, I thrive on solving challenges and driving value.
+<br/>
+Always eager to exciting projects and collaborations to create impactful digital experiences!
 </div>  
 
 
@@ -66,11 +69,9 @@ Connect With Me
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ukeshsharma/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/Ayan_M_Dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:ukeshsharma10@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=mail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/ukesh10/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-     <a href="https://ukeshfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal%20Site-1DA1F2?style=for-the-badge&logo=personal&logoColor=white"/></a>
-     https://img.shields.io/badge/any%20text-you%20like-blue
-    
+     <a href="https://ukeshfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal%20Site-1DA1F2?style=for-the-badge&logo=personal&logoColor=white"/></a>   
   </p>
 </div>  
 
