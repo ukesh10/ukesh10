@@ -17,7 +17,7 @@ Always eager to exciting projects and collaborations to create impactful digital
 
 ##
 <div>
-  <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
+  <img src="https://github.com/ukesh10/ukesh10/blob/main/cover-thompson.png" align="right" height="250">
   <p>
   🌱 I’m currently learning about Next.js and Sitecore XM cloud.
 
