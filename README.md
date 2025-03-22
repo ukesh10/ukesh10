@@ -19,7 +19,7 @@ Always eager to exciting projects and collaborations to create impactful digital
 <div>
   <img src="https://github.com/ukesh10/ukesh10/blob/main/cover-thompson.png" align="right" height="250">
   <p>
-  🌱 I’m currently learning about Next.js and Sitecore XM cloud.
+  🌱 I’m currently learning about Web API in .Net.
 
   👨‍💻 All of my projects are available at [my website](https://ukeshfolio.netlify.app/#projects)
 
