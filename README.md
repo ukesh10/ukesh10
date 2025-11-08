@@ -2,7 +2,7 @@
 <img src="https://github.com/ukesh10/ukesh10/blob/main/banner.png" alt="Hello world">
 
 <div id="hey" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+Ukesh+this+side+%F0%9F%91%8B;Full+Stack+Web+Developer;Software+Engineer;Senior+Analyst+%40+Capgemini" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+Ukesh+this+side+%F0%9F%91%8B;Full+Stack+Web+Developer;Software+Engineer;Associate+Consultant+%40+Capgemini" alt="Typing SVG" /></a>
 </div>
 
 
